@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Annotator</class>
+ <widget class="QMainWindow" name="Annotator">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>573</width>
+    <height>318</height>
+   </rect>
+  </property>
+  <property name="sizePolicy">
+   <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+    <horstretch>0</horstretch>
+    <verstretch>0</verstretch>
+   </sizepolicy>
+  </property>
+  <property name="acceptDrops">
+   <bool>true</bool>
+  </property>
+  <property name="windowTitle">
+   <string>Segmentator by JakubO</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>audio.png</normaloff>audio.png</iconset>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <widget class="QGroupBox" name="main_group">
+      <property name="acceptDrops">
+       <bool>true</bool>
+      </property>
+      <property name="title">
+       <string>Przeciągnij i upuść plik tutaj</string>
+      </property>
+      <widget class="QPushButton" name="open_button">
+       <property name="geometry">
+        <rect>
+         <x>30</x>
+         <y>240</y>
+         <width>491</width>
+         <height>23</height>
+        </rect>
+       </property>
+       <property name="text">
+        <string>Otwórz plik</string>
+       </property>
+      </widget>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="option_button">
+      <property name="text">
+       <string>Opcje</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

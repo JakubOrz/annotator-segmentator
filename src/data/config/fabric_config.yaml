@@ -1,0 +1,14 @@
+annotator:
+  annotator_name: JakubO_Annotator
+  tiers_names:
+  - Speaker_A
+  - Speaker_B
+collector:
+  left_correction: 300
+  loud_point: 50
+  max_loud_patience: 100
+  max_silent_patience: 100
+  right_correction: 200
+files:
+  input_path: ''
+  output_path: ''

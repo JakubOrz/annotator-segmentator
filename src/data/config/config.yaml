@@ -1,0 +1,14 @@
+annotator:
+  annotator_name: JakubO_Annotator
+  tiers_names:
+  - Speaker_A
+  - Speaker_B
+collector:
+  left_correction: 13
+  loud_point: 50
+  max_loud_patience: 10
+  max_silent_patience: 100
+  right_correction: 0
+files:
+  input_path: /home/jakub/Muzyka
+  output_path: /home/jakub/Uczelnia/CLARIN
