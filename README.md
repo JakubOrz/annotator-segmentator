@@ -26,3 +26,7 @@ przez program Elan. Oferowany jest interfejs graficzny jak i CLI.
 
 1. Pobrać i rozpakować [wersje portable](https://drive.google.com/drive/folders/1ToaknOVNLrQUsaXXrpHJ5a6KqcDlnIlJ?usp=sharing), nie gwarantuję, że będą wszędzie działać.
 
+## Poradniki
+
+[Wideo tutoriale](https://drive.google.com/drive/folders/1C5BYOcIFsBQbiaZdjYNK_5vdUXShfR5R?usp=sharing)
+
